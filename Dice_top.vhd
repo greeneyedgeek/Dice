@@ -1,4 +1,4 @@
--- File Name: View.vhd
+-- File Name: Dice_top.vhd
 -- Project Name: Dice
 --
 -- FPGA Dice based on the MVC design pattern and using a LFSR for generating a random number.
