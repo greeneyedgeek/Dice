@@ -34,7 +34,7 @@ architecture RTL of Controller is
 	--LFSR component for generating random numbers
 	component LFSR is
 		generic (
-			N : integer := 3 -- For a 6-face dice: N=3. 
+			N : integer := 3 --result [0..7]
 		);
 		port (
 			i_clk : in std_logic; --clock
