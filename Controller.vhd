@@ -1,7 +1,7 @@
 -- File Name: Controller.vhd
 -- Project Name: Dice
 --
--- A controller module requesting a random number from the number and sending the response the the view
+-- A controller module requesting a random number from the model and sending the response to the view
 --
 -- Author: Gabriel Fontaine-Escobar	
 -- Date Created: Nov. 14, 2020
