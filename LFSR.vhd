@@ -1,5 +1,5 @@
--- File Name: RandomGenerator.vhd
--- Project Name: GenERIC LFSR VHDL IMPLEMenTATION
+-- File Name: LFSR.vhd
+-- Project Name: Dice
 --
 -- A simple LFSR used to generate a random number from 1 to 6.
 --
